@@ -1,2 +1,2 @@
 # PGM HWs
- COMP 766 (Probabilistic graphical models) HWs
+ COMP 766 (Probabilistic graphical models) assignments.
